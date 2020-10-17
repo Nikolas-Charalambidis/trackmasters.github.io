@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "trackmasters.github.io/static/css/main.6f033aba.chunk.css",
+    "main.js": "trackmasters.github.io/static/js/main.b055be39.chunk.js",
+    "main.js.map": "trackmasters.github.io/static/js/main.b055be39.chunk.js.map",
+    "runtime-main.js": "trackmasters.github.io/static/js/runtime-main.77163aee.js",
+    "runtime-main.js.map": "trackmasters.github.io/static/js/runtime-main.77163aee.js.map",
+    "static/css/2.694d878d.chunk.css": "trackmasters.github.io/static/css/2.694d878d.chunk.css",
+    "static/js/2.60ac56ab.chunk.js": "trackmasters.github.io/static/js/2.60ac56ab.chunk.js",
+    "static/js/2.60ac56ab.chunk.js.map": "trackmasters.github.io/static/js/2.60ac56ab.chunk.js.map",
+    "index.html": "trackmasters.github.io/index.html",
+    "precache-manifest.8615b2229210d7fe09631c352cf72bb8.js": "trackmasters.github.io/precache-manifest.8615b2229210d7fe09631c352cf72bb8.js",
+    "service-worker.js": "trackmasters.github.io/service-worker.js",
+    "static/css/2.694d878d.chunk.css.map": "trackmasters.github.io/static/css/2.694d878d.chunk.css.map",
+    "static/css/main.6f033aba.chunk.css.map": "trackmasters.github.io/static/css/main.6f033aba.chunk.css.map",
+    "static/media/introduction.txt": "trackmasters.github.io/static/media/introduction.d41d8cd9.txt",
+    "static/media/Background.scss": "trackmasters.github.io/static/media/logo.9411cda8.jpg"
+  }
+}
