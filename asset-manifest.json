@@ -1,19 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.4fa49e3d.chunk.css",
-    "main.js": "./static/js/main.26e1dfbd.chunk.js",
-    "main.js.map": "./static/js/main.26e1dfbd.chunk.js.map",
+    "main.css": "./static/css/main.1a865b00.chunk.css",
+    "main.js": "./static/js/main.e39c36f2.chunk.js",
+    "main.js.map": "./static/js/main.e39c36f2.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.46091448.js",
     "runtime-main.js.map": "./static/js/runtime-main.46091448.js.map",
-    "static/css/2.694d878d.chunk.css": "./static/css/2.694d878d.chunk.css",
-    "static/js/2.60ac56ab.chunk.js": "./static/js/2.60ac56ab.chunk.js",
-    "static/js/2.60ac56ab.chunk.js.map": "./static/js/2.60ac56ab.chunk.js.map",
+    "static/css/2.bcb9885d.chunk.css": "./static/css/2.bcb9885d.chunk.css",
+    "static/js/2.032bf186.chunk.js": "./static/js/2.032bf186.chunk.js",
+    "static/js/2.032bf186.chunk.js.map": "./static/js/2.032bf186.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.99260ee87220733fad5b1c4b620ecd48.js": "./precache-manifest.99260ee87220733fad5b1c4b620ecd48.js",
+    "precache-manifest.e793d0c1495c597260b3716f680df376.js": "./precache-manifest.e793d0c1495c597260b3716f680df376.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/2.694d878d.chunk.css.map": "./static/css/2.694d878d.chunk.css.map",
-    "static/css/main.4fa49e3d.chunk.css.map": "./static/css/main.4fa49e3d.chunk.css.map",
+    "static/css/2.bcb9885d.chunk.css.map": "./static/css/2.bcb9885d.chunk.css.map",
+    "static/css/main.1a865b00.chunk.css.map": "./static/css/main.1a865b00.chunk.css.map",
+    "static/media/aboutRacing.txt": "./static/media/aboutRacing.a7bbb1cc.txt",
+    "static/media/denis-thumb-up.jpg": "./static/media/denis-thumb-up.3417f6ef.jpg",
     "static/media/introduction.txt": "./static/media/introduction.d41d8cd9.txt",
-    "static/media/Background.scss": "./static/media/logo.9411cda8.jpg"
+    "static/media/Background.scss": "./static/media/logo.9411cda8.jpg",
+    "static/media/motol.jpg": "./static/media/motol.4077e16c.jpg",
+    "static/media/Section.scss": "./static/media/t-shirts.739e8d57.jpg",
+    "static/media/trebesin.jpg": "./static/media/trebesin.f908396a.jpg"
   }
 }
