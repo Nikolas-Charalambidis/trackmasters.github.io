@@ -1,31 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "877a6a14f22f38a07553ea0dac301c7c",
+    "revision": "d1b6bf61f916e568b5c15c8cbf302a77",
     "url": "./index.html"
   },
   {
-    "revision": "4e7a74243b5cd2dd2ad6",
+    "revision": "2202d8dcbca65fd359d7",
     "url": "./static/css/2.bcb9885d.chunk.css"
   },
   {
-    "revision": "942974c41ebc1f6f3e47",
-    "url": "./static/css/main.7cc373ec.chunk.css"
+    "revision": "e7c634dd637ac5c59df8",
+    "url": "./static/css/main.1ea47f02.chunk.css"
   },
   {
-    "revision": "4e7a74243b5cd2dd2ad6",
-    "url": "./static/js/2.ed803b1a.chunk.js"
+    "revision": "2202d8dcbca65fd359d7",
+    "url": "./static/js/2.64dfd8b5.chunk.js"
   },
   {
-    "revision": "942974c41ebc1f6f3e47",
-    "url": "./static/js/main.377b79e1.chunk.js"
+    "revision": "e7c634dd637ac5c59df8",
+    "url": "./static/js/main.8cd1d3b9.chunk.js"
   },
   {
     "revision": "9fbdc6fb9046eb146f3a",
     "url": "./static/js/runtime-main.46091448.js"
-  },
-  {
-    "revision": "a7bbb1cc8560771e15cea7ede106ec9d",
-    "url": "./static/media/aboutRacing.a7bbb1cc.txt"
   },
   {
     "revision": "3417f6ef02dfb79f40a35804ae34bb36",
@@ -48,10 +44,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/logo.9411cda8.jpg"
   },
   {
-    "revision": "4077e16cbeb786206e3c1f0dff22a32b",
-    "url": "./static/media/motol.4077e16c.jpg"
-  },
-  {
     "revision": "8ee9fcb6eefb4d3f96127d6137799f82",
     "url": "./static/media/nikolas.8ee9fcb6.jpg"
   },
@@ -62,5 +54,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f908396a6efe4172dbc2b79481904e8f",
     "url": "./static/media/trebesin.f908396a.jpg"
+  },
+  {
+    "revision": "deecc94e558b9257b39d27ab2bb33d74",
+    "url": "./static/media/unie-amaterskych-cyklistu.deecc94e.svg"
   }
 ]);
