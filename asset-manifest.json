@@ -1,27 +1,25 @@
 {
   "files": {
-    "main.css": "./static/css/main.7cc373ec.chunk.css",
-    "main.js": "./static/js/main.377b79e1.chunk.js",
-    "main.js.map": "./static/js/main.377b79e1.chunk.js.map",
+    "main.css": "./static/css/main.1ea47f02.chunk.css",
+    "main.js": "./static/js/main.8cd1d3b9.chunk.js",
+    "main.js.map": "./static/js/main.8cd1d3b9.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.46091448.js",
     "runtime-main.js.map": "./static/js/runtime-main.46091448.js.map",
     "static/css/2.bcb9885d.chunk.css": "./static/css/2.bcb9885d.chunk.css",
-    "static/js/2.ed803b1a.chunk.js": "./static/js/2.ed803b1a.chunk.js",
-    "static/js/2.ed803b1a.chunk.js.map": "./static/js/2.ed803b1a.chunk.js.map",
+    "static/js/2.64dfd8b5.chunk.js": "./static/js/2.64dfd8b5.chunk.js",
+    "static/js/2.64dfd8b5.chunk.js.map": "./static/js/2.64dfd8b5.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.b4e14fc168d64c4398e242357df19dc9.js": "./precache-manifest.b4e14fc168d64c4398e242357df19dc9.js",
+    "precache-manifest.738e98e0a832e338ac2881b1a8412bd0.js": "./precache-manifest.738e98e0a832e338ac2881b1a8412bd0.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.bcb9885d.chunk.css.map": "./static/css/2.bcb9885d.chunk.css.map",
-    "static/css/main.7cc373ec.chunk.css.map": "./static/css/main.7cc373ec.chunk.css.map",
-    "static/media/aboutRacing.txt": "./static/media/aboutRacing.a7bbb1cc.txt",
+    "static/css/main.1ea47f02.chunk.css.map": "./static/css/main.1ea47f02.chunk.css.map",
     "static/media/denis-thumb-up.jpg": "./static/media/denis-thumb-up.3417f6ef.jpg",
     "static/media/denis.jpg": "./static/media/denis.0a1ad773.jpg",
     "static/media/group.jpg": "./static/media/group.9a92f0b3.jpg",
     "static/media/kovo.png": "./static/media/kovo.cba0e6ad.png",
     "static/media/Home.scss": "./static/media/logo.9411cda8.jpg",
-    "static/media/motol.jpg": "./static/media/motol.4077e16c.jpg",
     "static/media/nikolas.jpg": "./static/media/nikolas.8ee9fcb6.jpg",
-    "static/media/Section.scss": "./static/media/t-shirts.739e8d57.jpg",
-    "static/media/trebesin.jpg": "./static/media/trebesin.f908396a.jpg"
+    "static/media/Section.scss": "./static/media/trebesin.f908396a.jpg",
+    "static/media/unie-amaterskych-cyklistu.svg": "./static/media/unie-amaterskych-cyklistu.deecc94e.svg"
   }
 }
