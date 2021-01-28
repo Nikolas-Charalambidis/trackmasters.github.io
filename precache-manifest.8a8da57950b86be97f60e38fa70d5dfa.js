@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "38372335051acb0be9e3538f00454ef8",
+    "revision": "00e191c44083f22e80c77970f37b035b",
     "url": "/trackmasters.github.io/index.html"
   },
   {
-    "revision": "b97400fcc205a4ae05ca",
+    "revision": "49d667e21f6e6a432989",
     "url": "/trackmasters.github.io/static/css/2.bcb9885d.chunk.css"
   },
   {
-    "revision": "84718ef01a160cb2bcc6",
+    "revision": "db25888e999a0543752b",
     "url": "/trackmasters.github.io/static/css/main.a0f6b2a2.chunk.css"
   },
   {
-    "revision": "b97400fcc205a4ae05ca",
-    "url": "/trackmasters.github.io/static/js/2.b6990afd.chunk.js"
+    "revision": "49d667e21f6e6a432989",
+    "url": "/trackmasters.github.io/static/js/2.f2c464e8.chunk.js"
   },
   {
-    "revision": "84718ef01a160cb2bcc6",
-    "url": "/trackmasters.github.io/static/js/main.6e063281.chunk.js"
+    "revision": "db25888e999a0543752b",
+    "url": "/trackmasters.github.io/static/js/main.f59c200a.chunk.js"
   },
   {
     "revision": "1ace9fce0bb42bdefe0a",
@@ -38,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "86344f6fe7585f7ec3f21c5767e3efa7",
     "url": "/trackmasters.github.io/static/media/4.86344f6f.md"
+  },
+  {
+    "revision": "baf30308b0b2768eb45f47893c459a94",
+    "url": "/trackmasters.github.io/static/media/decathlon.baf30308.svg"
   },
   {
     "revision": "3417f6ef02dfb79f40a35804ae34bb36",
